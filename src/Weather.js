@@ -31,7 +31,7 @@ export default function Weather() {
         <div className="info">
         <div className="row">
         <div className="col-sm">
-            <ul className="text-decoration-none">ºç-
+            <ul className="text-decoration-none">
           <li>{`Temperature: ${temperature}ºC`}</li>
           <li>{`Description: ${description}`}</li>
           <li>{`Humidity: ${humidity}%`}</li>
